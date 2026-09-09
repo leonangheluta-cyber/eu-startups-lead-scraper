@@ -46,8 +46,8 @@ Built as a portfolio project to demonstrate a realistic two-level scraping pipel
 ## Installation
 
 ```bash
-git clone <this-repo-url>
-cd <this-repo-folder>
+git clone https://github.com/leonangheluta-cyber/eu-startups-lead-scraper.git
+cd eu-startups-lead-scraper
 pip install -r requirements.txt
 ```
 
