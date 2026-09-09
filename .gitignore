@@ -1,0 +1,13 @@
+# file eseguibile generato con PyInstaller (si rigenera dal codice sorgente)
+*.exe
+
+# cartelle/file temporanei creati da PyInstaller quando compili
+dist/
+build/
+*.spec
+
+# output reali generati dallo script (cambiano ogni ricerca, non sono codice)
+Lead_*_companies.xlsx
+
+# file di log generato durante l'esecuzione
+script_european_companies.log
