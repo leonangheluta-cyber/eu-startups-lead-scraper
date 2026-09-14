@@ -1,5 +1,11 @@
 # European Startups Lead Scraper
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2C2D72?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-4B8BBE?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Logging](https://img.shields.io/badge/Logging-4D4D4D?style=for-the-badge)
+
 Turns a startup directory into a ready-to-use B2B lead list — company name, location,
 founding year, funding stage, description, and website — exported straight to Excel.
 
